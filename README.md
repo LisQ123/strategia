@@ -1,1 +1,1 @@
-# strategia
+Prosta gra strategiczna 
